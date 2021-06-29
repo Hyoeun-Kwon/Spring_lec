@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;google.png&apos; to &apos;myresource&apos;&#x0A;- Original project: &apos;Spring0201&apos;&#x0A;- Destination element: &apos;myresource&apos;&#x0A;- Original element: &apos;google.png&apos;" description="Copy file" element1="src/main/webapp/resources/google.png" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1624946912126" target="/Spring0201/src/main/webapp/myresource" units="0" version="1.0"/>
+</session>

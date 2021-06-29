@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Hello"/>
+<aop-project name="Spring0201"/>
+<aop-project name="Spring0302"/>
+<aop-project name="Spring0401"/>
+<aop-project name="Spring0402"/>
+</aop-reference-model>
