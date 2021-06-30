@@ -20,6 +20,18 @@ public class BDto {
 		this.bContent = bContent;
 		this.bDate = bDate;
 	}
+	
+
+
+	public BDto(int bId, String bName, String bTitle, String bContent) {
+		super();
+		this.bId = bId;
+		this.bName = bName;
+		this.bTitle = bTitle;
+		this.bContent = bContent;
+	}
+
+
 
 
 
