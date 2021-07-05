@@ -2,6 +2,7 @@ package com.springlec.base0601.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
@@ -18,6 +19,9 @@ import com.springlec.base0601.command.BWriteCommand;
 public class BController {
 	
 	BCommand command = null;
+	
+	
+
 	
 	@RequestMapping("/list")
 	public String list(Model model) {
